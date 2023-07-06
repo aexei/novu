@@ -3,7 +3,7 @@ entries:
   novu:
   - apiVersion: v2
     appVersion: 0.15.0
-    created: "2023-07-06T14:04:23.24036205Z"
+    created: "2023-07-06T15:06:35.331638128Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -23,7 +23,7 @@ entries:
       repository: https://localstack.github.io/helm-charts
       version: 0.4.x
     description: A Helm Chart for novu
-    digest: 769b16f6a0f6513696dc450a874cb8c86d31009cffe561bfdfffe3ea05b0c276
+    digest: 13a891a55210c3f05e354ced1a15bf40aa94eafb466b298a8360281d4a2cb70c
     home: https://novu.co/
     keywords:
     - novu
@@ -34,4 +34,4 @@ entries:
     urls:
     - https://aexei.github.io/novu/novu-0.1.6.tgz
     version: 0.1.6
-generated: "2023-07-06T14:04:23.214529444Z"
+generated: "2023-07-06T15:06:35.310548572Z"
